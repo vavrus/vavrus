@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @vavrus
+- 👀 I’m interested in business and programming
+- 🌱 I’m currently learning HTML, CSS
